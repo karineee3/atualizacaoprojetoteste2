@@ -71,5 +71,3 @@ function finalizePurchase(event, deliveryForm, paymentForm, orderSummary) {
     
     alert("Compra finalizada com sucesso!");
 }
-
-
